@@ -1,0 +1,17 @@
+{
+    "color":"#03a9f4",
+    "identifier":"114005da34c6.scuf.sdm",
+    "label":"QQ_data_NOROOT",
+    "locations":[
+        "PUBLIC_DATA"
+    ],
+    "mainPath":[
+        "/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/chatpic/",
+        "/storage/emulated/0/Android/data/com.tencent.mobileqq/qzone/imageV2/",
+        "/storage/emulated/0/Android/data/com.tencent.mobileqq/files/tencent/msflogs",
+        "/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/diskcache",
+        "/storage/emulated/0/Android/data/com.tencent.mobileqq/Tencent/MobileQQ/shortvideo",
+        "/storage/emulated/0/Android/data/com.tencent.mobileqq/files/tencent/QAPM/Log"
+    ],
+    "version":4
+}
